@@ -1,4 +1,4 @@
-# Hangman-Game-in-Assembly-Language
+# Hangman-Game-in-Assembly-Language (2nd Semester Final Year Project)
 Simple Hangman Game in Assembly Language
 
 A simple Assembly language Code for Hangman Game
